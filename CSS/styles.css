@@ -1,11 +1,11 @@
-p{
-  font-family: Lato;
-  color: white;
+*{
+  font-family: Josefin Slab;
+  color: black;
 }
 
 ol{
   font-family: Lato;
-  color: white;
+  color: black;
 }
 
 .navnav-pillsnavbar-right{
