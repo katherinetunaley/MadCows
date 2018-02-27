@@ -1,11 +1,11 @@
 *{
   font-family: Josefin Slab;
-  color: black;
+  color: white;
 }
 
 ol{
   font-family: Lato;
-  color: black;
+  color: white;
 }
 
 .navnav-pillsnavbar-right{
@@ -26,4 +26,9 @@ li a {
 li a:hover {
     background-color: #555;
     color: white;
+}
+
+#article{
+  padding-left: 200px;
+  padding-right:200px;
 }
