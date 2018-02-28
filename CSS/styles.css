@@ -41,13 +41,20 @@
     margin: auto;
 }
 
+.caption1{
+  color: white;
+  font-weight: bold;
+}
+
 /*image grid*/
 .column{
     margin: auto;
     width: 60%;
 }
 
-.caption1{
-  color: white;
-  font-weight: bold;
+.extras{
+  padding-top: 20px;
+  display: inline-block;
+  padding-left: 82px
+
 }
